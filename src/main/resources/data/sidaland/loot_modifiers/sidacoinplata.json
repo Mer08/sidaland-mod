@@ -1,0 +1,43 @@
+{
+  "conditions": [
+    {
+      "condition": "killed_by_player",
+      "entity_type": [
+        "minecraft:bat",
+        "minecraft:blaze",
+        "minecraft:cave_spider",
+        "minecraft:creeper",
+        "minecraft:drowned",
+        "minecraft:elder_guardian",
+        "minecraft:enderman",
+        "minecraft:endermite",
+        "minecraft:evoker",
+        "minecraft:ghast",
+        "minecraft:guardian",
+        "minecraft:hoglin",
+        "minecraft:husk",
+        "minecraft:illusioner",
+        "minecraft:magma_cube",
+        "minecraft:phantom",
+        "minecraft:piglin",
+        "minecraft:piglin_brute",
+        "minecraft:pillager",
+        "minecraft:ravager",
+        "minecraft:shulker",
+        "minecraft:skeleton",
+        "minecraft:spider",
+        "minecraft:stray",
+        "minecraft:vex",
+        "minecraft:vindicator",
+        "minecraft:witch",
+        "minecraft:wither",
+        "minecraft:wither_skeleton",
+        "minecraft:zoglin",
+        "minecraft:zombie",
+        "minecraft:zombified_piglin",
+        "minecraft:zombie_villager"
+      ]
+    }
+  ],
+  "addition": "sidaland:sidacoin_plata"
+}
